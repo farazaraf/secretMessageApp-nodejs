@@ -1,7 +1,7 @@
 # secretMessageApp-nodejs
 A client - server nodejs application which broadcasts a secret code which allows users to visit a website and submit anonymous secret messages
 
-#How to start:
+# How to start:
 
 1. Download Node and install it
 2. In cmd type: node startserver.js
