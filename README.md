@@ -8,3 +8,12 @@ A client - server nodejs application which broadcasts a secret code which allows
 3. Also in another cmd type: node client.js
 4. Text will be saved in ist_gossip.txt
 5. Client will show PIN which u enter in the browser to access gossip
+
+## Dependencies:
+- expressjs
+- dgram
+- upd4
+- readline
+- tail
+
+  create a folder named node_modules in the root folder and install all the modules in that folder using npm
